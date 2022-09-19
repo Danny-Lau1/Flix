@@ -26,3 +26,23 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 There is a lot of new information working in Xcode and using swift. There are some similarities with my experience working with Python and a bit of html, but it is challenging. There is also a lot of work that goes beyond the coding, such as downloading libraries, working with directories, and much more. 
+
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="ezgif.com-gif-maker-3.gif" width=250><br>
+
+### Notes
+It was interesting to learn how to implement the Tab Bar Controller. There are so many things we use on a daily basis that we take for granted, and I didn't realize the work that needs to be put in to implement a feature we commonly use. It is still taking time to get used to Xcode but I like the process of building within the main storyboard and then coding the individual features within each controller. 
